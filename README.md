@@ -5,3 +5,8 @@ Gerrymandering - It is a practice intended to establish a political advantage fo
 Predicting relations between the factors involved In gerrymandering.
 This is an academic project for a course on data mining, where we compare and contrast various factors that are involved in gerrymandering. The analysis was performed on congressional election data.
 We wanted to compare various factors like income range, location type(urban/rural), racial population that may have an impact for political parties to gerrymander.
+
+Below is the Poster representing the Performed Analysis
+<p align="center">
+  <img src="https://github.com/abishek235/Vacation-Rental-Database-Design/raw/master/ER_DATABASE_DESIGN.png">
+</p>
