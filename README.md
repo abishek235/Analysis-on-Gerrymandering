@@ -8,5 +8,5 @@ We wanted to compare various factors like income range, location type(urban/rura
 
 Below is the Poster representing the Performed Analysis
 <p align="center">
-  <img src="https://github.com/abishek235/Vacation-Rental-Database-Design/raw/master/ER_DATABASE_DESIGN.png">
+  <img src="https://github.com/abishek235/Analysis-on-Gerrymandering/blob/master/GerryManderingPoster.jpg">
 </p>
